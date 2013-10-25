@@ -6,3 +6,4 @@ Example C*O Technology Positions
 * [Chief Data Officer -- Philadelphia](https://gist.github.com/mheadd/6074976)
 * [Chief Data Officer -- Project Open Data](http://project-open-data.github.io/cdo/)
 * [Chief Information Officer -- City of Palo Alto](http://agency.governmentjobs.com/paloaltoca/default.cfm?action=viewclassspec&classSpecID=811660&agency=2138&viewOnly=yes)
+* [Chief Technology Officer -- Los Angeles](https://github.com/smathermather/EIEIO/blob/master/docs/CTO-Los%20Angeles.docx)
