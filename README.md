@@ -8,3 +8,5 @@ A number of C-level technology positions have been created in local governance i
 The repo stems out of unconference discussions from CfASummit 2013.
 
 For a start, see https://github.com/smathermather/EIEIO/blob/master/links.md
+
+For the time being, these will be external links.  In the future, markdown docs will be recreated for each of these to ensure that when the external links die, the examples live on.
