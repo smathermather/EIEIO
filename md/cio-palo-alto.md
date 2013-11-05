@@ -13,3 +13,27 @@ Distinguishing Characteristics
 ------------------------------
 
 Directs and manages City-wide information technology systems and activities. Leads and develops technology strategic plans and implementation strategies. Provides leadership to the City Manager, City Council, and Department Directors in integrating and aligning technology with business plan objectives. Plans, organizes, directs and evaluates the Information Technology Department and its operations to ensure effective support for organizational objectives and efficient and effective implementation of initiatives.
+
+Essential Duties:
+=================
+##Essential and other important responsibilities and duties may include, but are not limited to, the following:
+
+* Provides leadership to the City Council, City Manager and Directors on alignment of technology with City initiatives, policy and strategic objectives. Makes presentations and prepares reports and plans.
+* Directs and manages interdepartmental technology governance, planning and coordination activities to accomplish specific City-wide objectives.
+* Coordinates with the City Manager, Directors and business managers to address problems and capitalize upon opportunities as they arise.
+* Develops and implements organizational policies and procedures regarding appropriate usage of technology within the organization.
+* Directs the priorities, work program, people and resource allocation within the Information Technology (IT) Department including hiring, staff development, training, terminations, and performance appraisals.
+* Initiates and develops internal and external partnerships to leverage City technology investments.
+* Develops and presents funding strategies to support technology investments.
+* Provides direct oversight and direction on mission critical City-wide technology initiatives.
+* Negotiates and reviews complex proposals and contracts for purchase of IT products and services. Develops partnership agreements.
+* Establishes and maintains a working environment conducive to positive morale, individual style, quality, creativity, and teamwork.
+* Serves as a member of leadership team, and addresses City-wide policy, management and strategic issues, including information security and other Cyber risks.
+* Formulates, recommends and administers policies and procedures governing the operation of the Information Technology (IT) Department. Establishes long-range goals and implementation plans for services provided by the IT Department.
+* Plans, develops and directs a comprehensive long-term strategic plan for automated systems needs for the City of Palo Alto, including centralized computer applications, personal computers, and telecommunications functions.
+* Oversees automated systems within the City, including prioritizing requests for applications development or enhancement, hardware and software standards, equipment acquisition and replacement.
+* Coordinates technical staff placed within individual City departments.
+* Positions the City to effectively respond to the rapidly changing technological environment.
+* Responsible for planning, preparing and administering the Information Technology Department budget, including Operating and Capital budgets..
+* Responsible for the future direction of the Information Technology Department, ensuring the coordination of the department’s effort with the needs of the organization.
+* Project management to include oversight of funding allocations, oversight and coordination of resources.
