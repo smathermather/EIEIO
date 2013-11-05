@@ -66,3 +66,10 @@ Licensing Requirements:
 * Communicating well and making effective public presentations
 * Understanding of the City's political environment and sensitivities; ability to function effectively within that environment.
 
+# Working Conditions / Physical Requirements:
+Work in an office environment; sustained posture in a seated position for prolonged periods of time; may utilize a computer terminal for prolonged periods of time.
+Positions in this class typically require:  reaching, fingering, grasping, talking, hearing, seeing and repetitive motions.
+Light Work: Exerting up to 20 pounds of force occasionally, and/or up to 10 pounds of force frequently, and/or negligible amount of force constantly to move objects.  If the use of arm and/or leg controls required exertion of forces greater than that for Sedentary Work and the worker sits most of the time, the job is rated for Light Work.
+JD128
+
+> The City of Palo Alto is an Equal Opportunity Employer. In compliance with the Americans with Disabilities Act, the City will provide reasonable accommodation to qualified individuals with disabilities and encourages both prospective and current employees to discuss potential accommodations with the employer.
