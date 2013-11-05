@@ -54,7 +54,7 @@ Licensing Requirements:
 
 # Knowledge, Skills, and Abilities:
  
-## Qualification to enter this position requires knowledge, skills and experience of the following:
+###### Qualification to enter this position requires knowledge, skills and experience of the following:
 
 * Information and telecommunications technology, current and emerging trends.
 * Strategic planning, systems and project management.
