@@ -51,3 +51,18 @@ Public sector experience a plus.
 Licensing Requirements:
 
 * Valid California Driver’s License
+
+# Knowledge, Skills, and Abilities:
+ 
+## Qualification to enter this position requires knowledge, skills and experience of the following:
+
+* Information and telecommunications technology, current and emerging trends.
+* Strategic planning, systems and project management.
+* Facilitatting teams and leading decision-making processes in a collaborative environment.
+* Business process improvements.
+* Managing complex budgets.
+* Managing and supervising personnel and interdepartmental technology committees and work programs.
+* Negotiating and assessing complex proposals and contracts.
+* Communicating well and making effective public presentations
+* Understanding of the City's political environment and sensitivities; ability to function effectively within that environment.
+
