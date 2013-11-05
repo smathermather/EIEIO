@@ -9,6 +9,4 @@ The repo stems out of unconference discussions from [CfASummit 2013](http://cfas
 
 For a start, see https://github.com/smathermather/EIEIO/blob/master/links.md
 
-For the time being, these will be external links.  In the future, markdown docs will be recreated for each of these to ensure that when the external links die, the examples live on.  Also, some summary docs be created to highlight commonalities between documents.
-
-For related thought leadership, see also http://codeforamerica.org and http://beyondtransparency.org/
+For the time being, these will be external links.  In the future, markdown docs will be recreated for each of these to ensure that when the external links die, the examples live on (see e.g. [CIO, City of Palo Alto](https://github.com/smathermather/EIEIO/blob/master/md/cio-palo-alto.md)).  Also, some summary docs be created to highlight commonalities between documents.
