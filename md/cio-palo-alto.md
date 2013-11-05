@@ -37,3 +37,17 @@ Essential Duties:
 * Responsible for planning, preparing and administering the Information Technology Department budget, including Operating and Capital budgets..
 * Responsible for the future direction of the Information Technology Department, ensuring the coordination of the department’s effort with the needs of the organization.
 * Project management to include oversight of funding allocations, oversight and coordination of resources.
+
+# Minimum Qualifications:
+ 
+Sufficient education, training and/or work experience to demonstrate possession of the following knowledge and skills, which would typically be acquired through:
+
+Bachelor’s Degree from an accredited four-year college or university and five or more years of progressively responsible related experience in information technology, systems, strategic planning and project management. Requires experience in managing large and complex budgets in a sophisticated and collaborative business environment.
+
+Or any equivalent combination of education, experience and training that provides the required knowledge, skills, and abilities.
+
+Public sector experience a plus.
+
+Licensing Requirements:
+
+* Valid California Driver’s License
