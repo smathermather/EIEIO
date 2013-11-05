@@ -1,10 +1,10 @@
 [Original Description available at City of Palo Alto Website](http://agency.governmentjobs.com/paloaltoca/default.cfm?action=viewclassspec&classSpecID=811660&agency=2138&viewOnly=yes)
 
-
 Synopsis
 ========
 
 Reports To:	Varies
+
 Supervises:	Yes
 
 Purpose of Classification
